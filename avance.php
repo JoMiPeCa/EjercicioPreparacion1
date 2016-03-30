@@ -71,7 +71,6 @@ require 'variables.php';
 
         </form>
     </body>
-
     <script type="text/javascript">
         $("input").focus(function () {
             $(this).css("backgroudn-color", "#cccccc")
@@ -87,4 +86,6 @@ require 'variables.php';
             }
         }
 
-        < /html>
+    </script>
+
+</html>
