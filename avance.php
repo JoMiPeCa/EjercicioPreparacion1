@@ -46,7 +46,7 @@ require 'variables.php';
                         <td>Piso del Edificio: </td>
                         <td><select name="piso" id="piso">
                                 <option value="default">Selecciona</option>
-                                <option value="0">subterraneo</option>
+                                <option value="subterraneo">subterraneo</option>
                                 <option value="1">piso 1</option>
                                 <option value="2">piso 2</option>
                                 <option value="3">piso 3</option>
